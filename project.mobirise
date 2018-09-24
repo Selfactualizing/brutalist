@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "brutalist-portfolio",
-    "currentPage": "brutalist.html",
+    "currentPage": ".html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 157,
     "versionPublish": "4.8.1",
@@ -3429,7 +3429,7 @@
         }
       ]
     },
-    "brutalist.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "TVKdesign",
